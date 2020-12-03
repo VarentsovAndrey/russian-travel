@@ -6,6 +6,6 @@
 }
 
 .place__website_link:hover {
-  cursor: url(../../../../../russian-travel/sprint-3-images/sprint-3-images/Pointer.png),
+  cursor: url("../../../../sprint-3-images/sprint-3-images/Pointer.svg"),
     pointer;
 }
