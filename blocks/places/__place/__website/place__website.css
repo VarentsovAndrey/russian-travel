@@ -1,0 +1,19 @@
+.place__website:nth-of-type(1) {
+  display: none;
+}
+@media screen and (min-width: 768px) {
+  .place__website {
+    align-self: end;
+    justify-self: stretch;
+  }
+  .place__website:nth-of-type(1) {
+    display: block;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .place__website {
+    align-self: end;
+    justify-self: stretch;
+  }
+}
