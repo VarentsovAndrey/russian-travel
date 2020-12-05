@@ -1,5 +1,6 @@
-.header__lang-link-ru {
+.header__lang-link_ru {
   color: #ffffff;
   text-decoration: none;
   border-bottom: 1px solid #ffffff;
+  padding: 0;
 }
