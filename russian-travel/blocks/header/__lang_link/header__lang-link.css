@@ -1,5 +1,7 @@
 .header__lang-link {
-  display: flex;
+  display: grid;
+  gap: 18px;
+  grid-template-columns: 22px 22px;
   font-size: 18px;
   line-height: 20px;
   padding-bottom: 6px;
@@ -8,11 +10,11 @@
   justify-content: space-between;
   color: #ffffff;
   text-decoration: none;
-  padding-left: 18px;
 }
 
 @media screen and (min-width: 768px) {
   .header__lang-link {
+    grid-template-columns: 30px 30px;
     font-size: 24px;
     line-height: 28px;
     padding-bottom: 6px;

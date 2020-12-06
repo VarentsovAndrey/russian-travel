@@ -11,8 +11,6 @@
 @media screen and (min-width: 768px) {
   .places__paragraph {
     padding-left: 0;
-    font-size: 18px;
-    line-height: 163%;
   }
   .places__paragraph:last-of-type {
     padding-bottom: 0;
@@ -22,5 +20,7 @@
 @media screen and (min-width: 1024px) {
   .places__paragraph {
     padding-left: 0;
+    font-size: 18px;
+    line-height: 163%;
   }
 }
