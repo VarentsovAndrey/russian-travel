@@ -6,6 +6,6 @@
 }
 
 .places__website-link:hover {
-  cursor: url("../../../sprint-3-images/sprint-3-images/Pointer.svg"), pointer;
+  cursor: url("../../../sprint-3-images/Pointer.png"), pointer;
   opacity: 0.8;
 }
