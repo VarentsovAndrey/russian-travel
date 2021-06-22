@@ -16,7 +16,7 @@
 
 * Трансформации и плавные переходы
 
-[Ссылка на GitHub Pages](https://varentsovandrey.github.io/russian-travel)
+[Нажми сюда!](https://varentsovandrey.github.io/russian-travel)
 
 -----
 **Автор: Варенцов Андрей**
